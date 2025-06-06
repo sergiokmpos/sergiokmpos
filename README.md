@@ -1,11 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
 - 🔭 I’m currently working on IA Agents (Python. OPEN AI, Sreeamlit)
 - 🌱 I’m currently learning about NASSIN THALEB theories
-- 👯 I’m looking to collaborate on AI projetcs for Sports
+- 👯 I’m looking to collaborate on AI projetcs for Automitive Industries
 - 🤔 I’m looking for help with Collab Social TEC projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 I love to talk about Running and Processes Improvements (KAIZEN)
+- 📫 How to reach me:
+  
+- <a href="https://www.linkedin.com/in/sergiokmpos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **sergiokmpos/sergiokmpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
