@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sergiokmpos/sergiokmpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on IA Agents (Python. OPEN AI, Sreeamlit)
 - 🌱 I’m currently learning about NASSIN THALEB theories
 - 👯 I’m looking to collaborate on AI projetcs for Sports
@@ -12,7 +7,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+<!--
+**sergiokmpos/sergiokmpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are
 
 ## Oiii eu sou
 
