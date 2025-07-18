@@ -1,4 +1,4 @@
-# 👋 Sergio por aqui!
+# 💻⚙️🧠 Sergio por aqui!
 <p align="left">
   <strong>Dev. Projetos na area da industia automotiva. <br></strong>
   
@@ -7,12 +7,12 @@
 ## Sobre mim
 
 
-- 🔭 I’m currently working on IA Agents (Python. OPEN AI, Sreeamlit)
-- 🌱 I’m currently learning about NASSIN THALEB theories
-- 👯 I’m looking to collaborate on AI projetcs for Automitive Industries
-- 🤔 I’m looking for help with Collab Social TEC projects
-- 💬 I love to talk about Running and Processes Improvements (KAIZEN)
-- 📫 How to reach me:
+- 🔭 Atualmente trabalhando com Agentes de IA usando Python, OpenAI e Streamlit
+- 🌱 Estudando as teorias de Nassim Taleb (Antifrágil, Cisne Negro, etc.)
+- 👯  Buscando colaborar em projetos de IA para a indústria automotiva
+- 🤝 Aberto a parcerias em projetos sociais de tecnologia colaborativa
+- 💬 Apaixonado por corrida e melhoria de processos (KAIZEN)
+- 📫 Como me encontrar: 
   
 - <a href="https://www.linkedin.com/in/sergiokmpos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
