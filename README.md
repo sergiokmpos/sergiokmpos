@@ -25,18 +25,19 @@
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/sergiokmpos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&include_all_commits=true&count_private=true&title_color=4da6ff&text_color=ffffff&icon_color=1e90ff&bg_color=0a1e3f"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&title_color=4da6ff&text_color=ffffff&icon_color=1e90ff&bg_color=0a1e3f"/>
+</a>
 
 ## Tecnologias e linguagens 💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,ai,c# )](https://skillicons.dev)
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiokmpos.sergiokmpos&left_color=darkviolet&right_color=orchid" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiokmpos.sergiokmpos&left_color=0a1e3f&right_color=1e90ff" width="80" />
 </div>
-
 
 <div align="center">
   
-  [![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=0a1e3f&color=4da6ff&line=1e90ff&point=1e90ff&area=true&area_color=4682b4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
