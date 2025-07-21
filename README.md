@@ -16,6 +16,8 @@
   
 - <a href="https://www.linkedin.com/in/sergiokmpos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+## ⭐ Game? :)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
@@ -24,10 +26,10 @@
 
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/sergiokmpos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&include_all_commits=true&count_private=true&title_color=4da6ff&text_color=ffffff&icon_color=1e90ff&bg_color=0a1e3f"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&title_color=4da6ff&text_color=ffffff&icon_color=1e90ff&bg_color=0a1e3f"/>
-</a>
+<a href="https://github.com/eduardavieira-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&theme=onedark"/>
+  
 
 ## Tecnologias e linguagens 💻
 
@@ -39,5 +41,5 @@
 
 <div align="center">
   
- [![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=0a1e3f&color=4da6ff&line=1e90ff&point=1e90ff&area=true&area_color=4682b4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=0a1e3f&color=4da6ff&line=1e90ff&point=1e90ff&area=true&area_color=4682b4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
