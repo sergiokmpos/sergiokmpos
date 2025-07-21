@@ -27,7 +27,7 @@
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&theme=onedark"/>
   
 
@@ -41,5 +41,6 @@
 
 <div align="center">
   
-[![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=0a1e3f&color=4da6ff&line=1e90ff&point=1e90ff&area=true&area_color=4682b4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=282c34&color=61dafb&line=c678dd&point=98c379&area=true&area_color=3e4451&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
