@@ -26,9 +26,17 @@
 
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/sergiokmpos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=6&theme=onedark"/>
+
+<p align="center">
+  <a href="https://github.com/sergiokmpos">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=onedark" />
+  </a>
+  <a href="https://github.com/sergiokmpos">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiokmpos&layout=compact&langs_count=8&theme=onedark" />
+  </a>
+</p>
+
+
   
 
 ## Tecnologias e linguagens 💻
