@@ -27,7 +27,7 @@
 
 ## ⭐ GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/sergiokmpos">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=sergiokmpos&show_icons=true&theme=onedark" />
   </a>
