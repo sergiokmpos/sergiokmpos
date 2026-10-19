@@ -43,11 +43,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,ai,c# )](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiokmpos.sergiokmpos&left_color=0a1e3f&right_color=1e90ff" width="80" />
-</div>
 
-<div align="center">
-  
-[![Sergio Paiva Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiokmpos&bg_color=282c34&color=61dafb&line=c678dd&point=98c379&area=true&area_color=3e4451&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2>📈 Minha atividade no GitHub</h2>
 
