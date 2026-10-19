@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <rect width="900" height="220" rx="14" fill="#0d1117"/>
+  <text x="28" y="35" fill="#e6edf3" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Sergio Paiva Campos</text>
+  <text x="28" y="57" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">GitHub Activity</text>
+  <g id="activity-grid" fill="#161b22">
+    <rect x="30" y="78" width="11" height="11" rx="2"/>
+    <rect x="45" y="78" width="11" height="11" rx="2" fill="#0e4429"/>
+    <rect x="60" y="78" width="11" height="11" rx="2" fill="#006d32"/>
+    <rect x="75" y="78" width="11" height="11" rx="2" fill="#26a641"/>
+    <rect x="90" y="78" width="11" height="11" rx="2" fill="#39d353"/>
+  </g>
+  <g fill="#0e4429">
+    <rect x="30" y="94" width="11" height="11" rx="2"/>
+    <rect x="45" y="94" width="11" height="11" rx="2"/>
+    <rect x="60" y="94" width="11" height="11" rx="2"/>
+    <rect x="90" y="94" width="11" height="11" rx="2"/>
+  </g>
+  <g fill="#26a641">
+    <rect x="30" y="110" width="11" height="11" rx="2"/>
+    <rect x="75" y="110" width="11" height="11" rx="2"/>
+    <rect x="105" y="110" width="11" height="11" rx="2"/>
+  </g>
+  <g fill="#161b22">
+    <rect x="30" y="126" width="11" height="11" rx="2"/>
+    <rect x="45" y="126" width="11" height="11" rx="2"/>
+    <rect x="60" y="126" width="11" height="11" rx="2"/>
+    <rect x="75" y="126" width="11" height="11" rx="2"/>
+    <rect x="90" y="126" width="11" height="11" rx="2"/>
+    <rect x="105" y="126" width="11" height="11" rx="2"/>
+  </g>
+  <text x="30" y="173" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">Menos</text>
+  <rect x="75" y="163" width="11" height="11" rx="2" fill="#161b22"/>
+  <rect x="91" y="163" width="11" height="11" rx="2" fill="#0e4429"/>
+  <rect x="107" y="163" width="11" height="11" rx="2" fill="#006d32"/>
+  <rect x="123" y="163" width="11" height="11" rx="2" fill="#26a641"/>
+  <rect x="139" y="163" width="11" height="11" rx="2" fill="#39d353"/>
+  <text x="158" y="173" fill="#8b949e" font-family="Arial,sans-serif" font-size="11">Mais</text>
+  <text x="28" y="203" fill="#8b949e" font-family="Arial,sans-serif" font-size="10">Modelo visual estático — não representa contribuições reais.</text>
+</svg>

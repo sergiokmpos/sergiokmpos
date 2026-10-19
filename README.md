@@ -46,3 +46,5 @@
 
 <h2>📈 Minha atividade no GitHub</h2>
 
+
+<img src="./assets/activity.svg" alt="Visualização de atividade do GitHub" width="100%">
